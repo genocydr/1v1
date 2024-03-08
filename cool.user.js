@@ -5,7 +5,7 @@
 // @description  Let's you see players behind walls. Comes with a wireframe view mode and an aimbot too. Press M, N and T to toggle them.
 // @author       Zertalious (Zert)
 // @match        *://1v1.lol/*
-// @match        *://1v1.school/*
+// @match        *://amoung-us.org/*
 // @icon         https://www.google.com/s2/favicons?domain=1v1.lol
 // @grant        none
 // @run-at       document-start
